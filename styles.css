@@ -2,11 +2,11 @@
 /* 6one — locked system: no containers, no shadows, no noise */
 
 :root {
-  --bg-1: #f6f1ff;
-  /* high luminosity violet */
-  --bg-2: #efe8ff;
+  --bg-1: #f8f6f1;
+  /* primary background */
+  --bg-2: #f3f1ea;
   /* subtle blend */
-  --bg-3: #f7f4ff;
+  --bg-3: #ffffff;
   /* soft return */
   --text: #241b2f;
   /* deep violet-charcoal */
