@@ -14,9 +14,9 @@
   /* slightly lighter */
   --brand: #4b2aa6;
   /* closer to Kraken purple */
-  --line: rgba(26, 19, 36, 0.55);
-  --link: rgba(36, 27, 47, 0.86);
-  --link-hover: rgba(75, 42, 166, 0.95);
+  --line: rgba(75, 42, 166, 0.35);
+  --link: var(--brand);
+  --link-hover: var(--brand);
   --max: 1080px;
   --read: 700px;
 }
