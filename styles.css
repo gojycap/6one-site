@@ -2,9 +2,9 @@
 /* 6one — locked system: no containers, no shadows, no noise */
 
 :root {
-  --bg-1: #f8f6f1;
-  /* primary background */
-  --bg-2: #f3f1ea;
+  --bg-1: #fcfcfa;
+  /* near-white, neutral */
+  --bg-2: #f7f7f5;
   /* subtle blend */
   --bg-3: #ffffff;
   /* soft return */
