@@ -2,19 +2,19 @@
 /* 6one — locked system: no containers, no shadows, no noise */
 
 :root {
-  --bg-1: #fcfcfa;
-  /* near-white, neutral */
-  --bg-2: #f7f7f5;
-  /* subtle blend */
+  --bg-1: #ffffff;
+  /* white */
+  --bg-2: #ffffff;
+  /* white */
   --bg-3: #ffffff;
-  /* soft return */
-  --text: #241b2f;
+  /* white */
+  --text: #1a1324;
   /* deep violet-charcoal */
   --muted: #3a2b4a;
   /* slightly lighter */
   --brand: #4b2aa6;
   /* closer to Kraken purple */
-  --line: rgba(36, 27, 47, 0.28);
+  --line: rgba(26, 19, 36, 0.55);
   --link: rgba(36, 27, 47, 0.86);
   --link-hover: rgba(75, 42, 166, 0.95);
   --max: 1080px;
